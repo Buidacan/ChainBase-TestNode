@@ -1,0 +1,10 @@
+{
+  "name": "Buidacan",
+  "website": "https://github.com/Buidacan",
+  "description": "ChainNode",
+  "logo": "https://raw.githubusercontent.com/Buidacan/ChainBase-TestNode/main/Logo.png",
+  "twitter": "https://x.com/EvedastoTadea"
+}
+
+
+METADATA RAW - https://raw.githubusercontent.com/Buidacan/ChainBase-TestNode/main/metadata
